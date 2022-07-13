@@ -1,0 +1,329 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2022-07-13 18:05:37.530485",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "hospitality",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Havenir Hotels",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Room",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": " Rooms",
+   "link_to": "Rooms",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Room Types",
+   "link_to": "Room Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Room Facilities",
+   "link_to": "Room Facilities",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Room Facility Type ",
+   "link_to": "Room Facility Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Guests",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Guests",
+   "link_to": "Hotel Guests",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check Ins",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check Ins",
+   "link_to": "Hotel Check In",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check In Room",
+   "link_to": "Hotel Check In Room",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check Outs ",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check Out",
+   "link_to": "Hotel Check Out",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check Out Item",
+   "link_to": "Hotel Check Out Item",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check Out Payment",
+   "link_to": "Hotel Check Out Payments",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Check Out Taxes & Charges",
+   "link_to": "Hotel Check Out Taxes and Charges",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Restaurant",
+   "link_to": "",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Restaurant Tables",
+   "link_to": "Restaurant Tables",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Food Order",
+   "link_to": "Hotel Food Order",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Food Order Item",
+   "link_to": "Hotel Food Order Item",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Laundry",
+   "link_to": "",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Laundry Order",
+   "link_to": "Hotel Laundry Order",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Laundry Order Item",
+   "link_to": "Hotel Laundry Order Item",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Hotel Reports",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Loan Repayment and Closure",
+   "link_to": "Loan Repayment and Closure",
+   "link_type": "Report",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Loan Security Status",
+   "link_to": "Loan Security Status",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2022-07-13 19:43:55.784983",
+ "modified_by": "Administrator",
+ "module": "Havenir Hotel Erpnext",
+ "name": "Havenir Hotels",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "color": "Green",
+   "doc_view": "",
+   "format": "{} Open",
+   "label": "Hotel Check In",
+   "link_to": "Hotel Check In",
+   "stats_filter": "{ \"status\": \"Open\" }",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Hotel Check Out",
+   "link_to": "Hotel Check Out",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Hotel Guests",
+   "link_to": "Hotel Guests",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Hotel Food Order",
+   "link_to": "Hotel Food Order",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Hotel Payment Entry",
+   "link_to": "Hotel Payment Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Hotel Laundry Order",
+   "link_to": "Hotel Laundry Order",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Hotel Management Settings",
+   "link_to": "Hotel Management Settings",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Hotel Rooms",
+   "link_to": "Rooms",
+   "restrict_to_domain": "",
+   "type": "DocType"
+  }
+ ]
+}
