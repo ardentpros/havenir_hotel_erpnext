@@ -3,9 +3,9 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "havenir_hotel_erpnext"
-app_title = "Havenir Hotel Erpnext"
+app_title = "Havenir Hotel App"
 app_publisher = "Havenir"
-app_description = "Hotel Management App for ERPNext"
+app_description = "Hotel Management App"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "info@havenir.com"
